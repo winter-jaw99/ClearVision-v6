@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://i.imgur.com/LHZHnxq.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
@@ -54,7 +54,7 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://i.imgur.com/oqZ8XZh.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
@@ -80,7 +80,7 @@
   --backdrop-blur: var(--background-blur); /* modal backdrop blur [default: var(--background-blur)] */
 
   /* USER POPOUT BACKGROUND */
-  --user-popout-image: var(--background-image); /* app background image (link must be HTTPS) [default: var(--background-image)] */
+  --user-popout-image: var(https://i.imgur.com/y8iS3RH.png); /* app background image (link must be HTTPS) [default: var(--background-image)] */
   --user-popout-position: var(--background-position); /* user popout background position [default: var(--background-position)] */
   --user-popout-size: var(--background-size); /* user popout background size [default: var(--background-size)] */
   --user-popout-repeat: var(--background-repeat); /* user popout background repeat [default: var(--background-repeat)] */
